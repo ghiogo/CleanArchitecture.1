@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CleanArchitecture.1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Введите имя</string>
+    <string name="surname">Введите фамилию</string>
+    <string name="age">Введите свой возраст</string>
+    <string name="signIn">Зарегистрироваться</string>
+    <string name="your_name">Your name:</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_surname">Surname</string>
+    <string name="your_surname">Your surname:</string>
+    <string name="your_age">Your age:</string>
+    <string name="tv_age">age</string>
+    <string name="infa">Информация о пользователе</string>
+    <string name="hide">Скрыть</string>
+</resources>
